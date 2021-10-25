@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Kitchen Gun"
+	"author_name" "Mecknavorz the Dragoness"
+	"info" " { 	"description": "THREE SHOTS FROM KITCHEN GUN AND IT SPARKLES LIKE NEW", 	"type": "weapon", 	"tags":  	[ 		"fun", 		"comic" 	] }"
+}
